@@ -29,7 +29,7 @@ This idea was a thought process of mine. I was thinking how my grandmothers and 
 6. MySQL/ NoSQL
 
 ### What I'll Have to Learn
-As of now technology Spring Security OAuth is to be learned. Also I am thinking there will be problem if I use MySQL. If I can't use MySQL I have to learn NoSQL(Couchbase/Mongo DB) and have to analyze about Azure. Need to research about Google Maps, to check if REST api is needed.
+As of now technology Spring Security OAuth is to be learned. Also I am thinking there will be problem if I use MySQL. If I can't use MySQL I have to learn NoSQL(Couchbase/Mongo DB). Need to research about Google Maps API, to check if REST api is needed.
 
 
 ### Project Tracker
