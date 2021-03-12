@@ -8,12 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+HomePage[HomePage.pdf](https://github.com/SrinidhiArun/liftoff-assignments/files/6127634/HomePage.pdf)
+CreateRecipePage[Create-Recipe-----Wireframe-cc-Premium.pdf](https://github.com/SrinidhiArun/liftoff-assignments/files/6127635/Create-Recipe-----Wireframe-cc-Premium.pdf)
+ViewRecipe[Recipe---Wireframe-cc-Premium.pdf](https://github.com/SrinidhiArun/liftoff-assignments/files/6127636/Recipe---Wireframe-cc-Premium.pdf)
+UserLogIn[Sign-In---Wireframe-cc-Premium.pdf](https://github.com/SrinidhiArun/liftoff-assignments/files/6127637/Sign-In---Wireframe-cc-Premium.pdf)
+UserSignUp[Sign Up page.pdf](https://github.com/SrinidhiArun/liftoff-assignments/files/6127639/Sign.Up.page.pdf)
+ViewProfile[Profile---Wireframe-cc-Premium.pdf](https://github.com/SrinidhiArun/liftoff-assignments/files/6127640/Profile---Wireframe-cc-Premium.pdf)
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/Pe9eCVs6/recipesharingapp
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/SrinidhiArun/RecipeSharingApp
